@@ -1,6 +1,6 @@
 ---
 title: "Website"
-output: html_document
+output: github_document
 date: "2026-09-04"
 ---
 
